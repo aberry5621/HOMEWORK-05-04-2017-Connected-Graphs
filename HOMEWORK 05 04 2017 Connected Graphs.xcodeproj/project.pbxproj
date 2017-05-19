@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		E209F5CB1ECEB726006ED101 /* HOMEWORK 05 04 2017 Connected Graphs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "HOMEWORK 05 04 2017 Connected Graphs"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E209F5CE1ECEB726006ED101 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E209F5D51ECEB966006ED101 /* nodes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = nodes.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		E209F5CD1ECEB726006ED101 /* HOMEWORK 05 04 2017 Connected Graphs */ = {
 			isa = PBXGroup;
 			children = (
+				E209F5D51ECEB966006ED101 /* nodes.txt */,
 				E209F5CE1ECEB726006ED101 /* main.cpp */,
 			);
 			path = "HOMEWORK 05 04 2017 Connected Graphs";
